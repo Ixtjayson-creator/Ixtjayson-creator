@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im jayson and im learning the business and data but looking into making software for local companies and help them understand
 - 🔭 I’m currently working on AI Data Chat
 - 🌱 I’m currently learning business 
 - 🤔 I’m looking for help with business and their data
