@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on AI Data Chat
+- 🌱 I’m currently learning business 
+- 🤔 I’m looking for help with business and their data
+- 📫 How to reach me: Ixtjayson@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im a great footballer
 <!--
 **Ixtjayson-creator/Ixtjayson-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
